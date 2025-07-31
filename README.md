@@ -1,9 +1,3 @@
-# React TypeScript Starter Pack
+A minimalist task management application that allows users to create, edit, complete, filter, and delete tasks. The app maintains task state using local storage and provides a clean, responsive interface with interactive filtering and status updates.
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+Technologies: React, TypeScript, SCSS, React Hooks.
